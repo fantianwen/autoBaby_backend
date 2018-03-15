@@ -1,0 +1,38 @@
+{
+  "testCaseCategory": "testTen",
+  "testCaseName": "case_for_test",
+  "caseSteps": [
+    {
+      "elementId": "edittext_employee_code",
+      "data": "102204",
+      "action": "",
+      "shouldSleep": "false",
+      "sleepMills": "0",
+      "wish": ""
+    },
+    {
+      "elementId": "edittext_password",
+      "data": "dooioo&!&!",
+      "action": "click",
+      "shouldSleep": "true",
+      "sleepMills": "2",
+      "wish": ""
+    },
+    {
+      "elementId": "edittext_password",
+      "data": "dooioo&!&!",
+      "action": "click",
+      "shouldSleep": "true",
+      "sleepMills": "2",
+      "wish": ""
+    },
+    {
+      "elementId": "edittext_password",
+      "data": "dooioo&!&!",
+      "action": "click",
+      "shouldSleep": "true",
+      "sleepMills": "2",
+      "wish": ""
+    }
+  ]
+}

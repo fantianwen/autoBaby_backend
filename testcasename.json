@@ -1,0 +1,16 @@
+{
+  "testCaseName": "testcasename",
+  "caseSteps": [
+    {
+      "elementId": "id1",
+      "data": "text1",
+      "action": "click",
+      "shouldSleep": "no",
+      "sleepMills": "0",
+      "wish": {
+        "elementId": "id2",
+        "shouldShow": false
+      }
+    }
+  ]
+}
